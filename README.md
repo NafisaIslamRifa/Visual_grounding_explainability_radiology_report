@@ -1,4 +1,4 @@
-# Visual_grounding_explainability_radiology_report
+
 # Visual Grounding and Explainability Auditing for Prompt-Driven Parameter-Efficient Radiology Report Generation
 
 This repository contains the code and experimental resources for the paper:
