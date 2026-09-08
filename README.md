@@ -380,29 +380,6 @@ The grounded mode generates report text together with coordinate tokens, which a
 
 ---
 
-## Running Evaluation
-
-Report-generation evaluation:
-
-```bash
-python evaluation/report_metrics.py
-```
-
-Grounding evaluation:
-
-```bash
-python evaluation/grounding_metrics.py
-```
-
-CAM-based evaluation:
-
-```bash
-python evaluation/cam_methods.py
-```
-
-The evaluation scripts assume that the required predictions, reference annotations, and dataset files have been prepared.
-
----
 
 ## Automated Tests
 
@@ -463,22 +440,7 @@ These limitations are discussed in detail in the accompanying paper.
 
 ---
 
-## Citation
 
-If you use this code or build on this work, please cite the associated paper:
-
-```bibtex
-@inproceedings{YOUR_CITATION_KEY,
-  title     = {Visual Grounding and Explainability Auditing for Prompt-Driven Parameter-Efficient Radiology Report Generation},
-  author    = {Nafisa Islam Rifa},
-  booktitle = {MICAD 2026},
-  year      = {2026}
-}
-```
-
-Please replace the BibTeX entry above with the final citation provided by the conference or publisher.
-
----
 
 ## Acknowledgements
 
